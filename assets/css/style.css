@@ -7,7 +7,8 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    border-top: 1px solid rgb(255, 255, 255);
+    padding-top: 50px;
+    
 }
 header h3{
     background: rgba(0, 0, 0, 0.65);
@@ -15,7 +16,7 @@ header h3{
     font-size: 3em;
     text-align: center;
     margin: 0;
-    padding: 20px;
+    padding: 30px 0 30px 0px;
     width: 95vw;
-    margin: 50px auto;
+    margin: 0 auto;
 }
